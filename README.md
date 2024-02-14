@@ -148,7 +148,7 @@ cd grafana
 docker-compose up -d
 ```
 
-#### Pronto! Grana instaldo com sucesso ✅
+#### Pronto! Grafana instalado com sucesso ✅
 Agora só acessar, server_name grafana.seudominio.com.br</br>
 usuário padrão: admin com senha admin
 
