@@ -124,7 +124,7 @@ server {
 }
 EOF
 
-### Valide a congiguração e reinicie o nginx
+### Valide a configuração e reinicie o nginx
 
 ```bash
 nginx -t
